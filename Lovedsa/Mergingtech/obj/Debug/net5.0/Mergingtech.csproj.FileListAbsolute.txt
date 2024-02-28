@@ -1,0 +1,15 @@
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\Mergingtech.exe
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\Mergingtech.deps.json
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\Mergingtech.runtimeconfig.json
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\Mergingtech.runtimeconfig.dev.json
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\Mergingtech.dll
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\ref\Mergingtech.dll
+C:\Prakash\DSALove\Lovedsa\Mergingtech\bin\Debug\net5.0\Mergingtech.pdb
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.AssemblyInfoInputs.cache
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.AssemblyInfo.cs
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.csproj.CoreCompileInputs.cache
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.dll
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\ref\Mergingtech.dll
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.pdb
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.genruntimeconfig.cache
