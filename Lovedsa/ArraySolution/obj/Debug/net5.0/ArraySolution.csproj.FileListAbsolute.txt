@@ -1,0 +1,16 @@
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ArraySolution.exe
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ArraySolution.deps.json
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ArraySolution.runtimeconfig.json
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ArraySolution.runtimeconfig.dev.json
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ArraySolution.dll
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ref\ArraySolution.dll
+C:\Prakash\DSALove\Lovedsa\ArraySolution\bin\Debug\net5.0\ArraySolution.pdb
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.csproj.AssemblyReference.cache
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.AssemblyInfoInputs.cache
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.AssemblyInfo.cs
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.csproj.CoreCompileInputs.cache
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.dll
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ref\ArraySolution.dll
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.pdb
+C:\Prakash\DSALove\Lovedsa\ArraySolution\obj\Debug\net5.0\ArraySolution.genruntimeconfig.cache
