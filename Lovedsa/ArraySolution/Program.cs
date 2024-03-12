@@ -27,9 +27,11 @@ namespace ArraySolution
             //MaxPointByCard max = new MaxPointByCard();
             //int maxSum = max.GetMaxPointByCard(new int[] { 1, 2, 3, 6, 5, 6 }, 3);
             //Console.WriteLine($"Sum is : {maxSum}");
-            BinarySubarrayWithSum binarySubarrayWithSum = new BinarySubarrayWithSum();
-            int subArrayCount = binarySubarrayWithSum.GetBinSubarrayCount(new int[] { 1, 0, 1, 0,1 }, 2);
-            Console.WriteLine($"Total subarray count : {subArrayCount}");
+            //BinarySubarrayWithSum binarySubarrayWithSum = new BinarySubarrayWithSum();
+            //int subArrayCount = binarySubarrayWithSum.GetBinSubarrayCount(new int[] { 1, 0, 1, 0,1 }, 2);
+            //Console.WriteLine($"Total subarray count : {subArrayCount}");
+            SubArrayKDistinctNum subArrayKDistinctNum = new SubArrayKDistinctNum();
+            subArrayKDistinctNum.GetSubArrayCountKDistinctNum(new int[] { 1, 2, 1, 3, 4 },2);
         }
     }
 }

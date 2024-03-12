@@ -13,3 +13,4 @@ C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.dll
 C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\ref\Mergingtech.dll
 C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.pdb
 C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.genruntimeconfig.cache
+C:\Prakash\DSALove\Lovedsa\Mergingtech\obj\Debug\net5.0\Mergingtech.csproj.AssemblyReference.cache

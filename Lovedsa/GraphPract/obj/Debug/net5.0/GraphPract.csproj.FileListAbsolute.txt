@@ -5,7 +5,6 @@ C:\Prakash\DSALove\Lovedsa\GraphPract\bin\Debug\net5.0\GraphPract.runtimeconfig.
 C:\Prakash\DSALove\Lovedsa\GraphPract\bin\Debug\net5.0\GraphPract.dll
 C:\Prakash\DSALove\Lovedsa\GraphPract\bin\Debug\net5.0\ref\GraphPract.dll
 C:\Prakash\DSALove\Lovedsa\GraphPract\bin\Debug\net5.0\GraphPract.pdb
-C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.csproj.AssemblyReference.cache
 C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.GeneratedMSBuildEditorConfig.editorconfig
 C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.AssemblyInfoInputs.cache
 C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.AssemblyInfo.cs
