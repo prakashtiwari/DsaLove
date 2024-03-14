@@ -9,9 +9,11 @@ namespace StringPract
         {
             Console.WriteLine("Hello World!");
 
-            MinLenSubstring minLen = new MinLenSubstring();
+            //MinLenSubstring minLen = new MinLenSubstring();
 
-            string res = minLen.GetMinLenStringContainingChar("ADOBECODEBANC", "ABC");
+            //string res = minLen.GetMinLenStringContainingChar("ADOBECODEBANC", "ABC");
+            MinWindowSubsequence minWindow = new MinWindowSubsequence();
+           string s= minWindow.GetMinWindowSubsequence("abccdebdde", "bde");
         }
     }
 }
