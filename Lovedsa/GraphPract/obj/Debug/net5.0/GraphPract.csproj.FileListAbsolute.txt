@@ -13,4 +13,3 @@ C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.dll
 C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\ref\GraphPract.dll
 C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.pdb
 C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.genruntimeconfig.cache
-C:\Prakash\DSALove\Lovedsa\GraphPract\obj\Debug\net5.0\GraphPract.csproj.AssemblyReference.cache
