@@ -1,0 +1,16 @@
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\LinkPractice.exe
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\LinkPractice.deps.json
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\LinkPractice.runtimeconfig.json
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\LinkPractice.runtimeconfig.dev.json
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\LinkPractice.dll
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\ref\LinkPractice.dll
+C:\Prakash\DSALove\Lovedsa\LinkPractice\bin\Debug\net5.0\LinkPractice.pdb
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.csproj.AssemblyReference.cache
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.AssemblyInfoInputs.cache
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.AssemblyInfo.cs
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.csproj.CoreCompileInputs.cache
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.dll
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\ref\LinkPractice.dll
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.pdb
+C:\Prakash\DSALove\Lovedsa\LinkPractice\obj\Debug\net5.0\LinkPractice.genruntimeconfig.cache
