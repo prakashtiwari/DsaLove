@@ -1,0 +1,15 @@
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\CSharpAdvFeature.exe
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\CSharpAdvFeature.deps.json
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\CSharpAdvFeature.runtimeconfig.json
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\CSharpAdvFeature.runtimeconfig.dev.json
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\CSharpAdvFeature.dll
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\ref\CSharpAdvFeature.dll
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\bin\Debug\net5.0\CSharpAdvFeature.pdb
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.AssemblyInfoInputs.cache
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.AssemblyInfo.cs
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.csproj.CoreCompileInputs.cache
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.dll
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\ref\CSharpAdvFeature.dll
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.pdb
+C:\Prakash\DSALove\Lovedsa\CSharpAdvFeature\obj\Debug\net5.0\CSharpAdvFeature.genruntimeconfig.cache
